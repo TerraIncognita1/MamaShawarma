@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="auth_text">Mama Shawarma!</string>
+    <string name="login_button">login</string>
+    <string name="register_button">register</string>
+    <string name="exit_button">Exit</string>
+    <string name="logo_description">Mama Shawarma Logo</string>
+    <string name="login_text">Log in to your account</string>
+    <string name="sign_up_text">Sign up your account</string>
+    <string name="email_text_label">E-mail:</string>
+    <string name="email_text"><i>e-mail</i></string>
+    <string name="password_text_label">Password:</string>
+    <string name="password_text"><i>password</i></string>
+    <string name="username_text_label">Username:</string>
+    <string name="username_text">username</string>
+    <string name="return_button">return</string>
+</resources>

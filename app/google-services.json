@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999588818136",
+    "project_id": "mamashawarma-fd3ca",
+    "storage_bucket": "mamashawarma-fd3ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999588818136:android:b521a21e4e8c6ba3733bad",
+        "android_client_info": {
+          "package_name": "org.mrromych"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBusj12Oi3zP6ysDZ0iiYn9boTe5ZTTiqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
